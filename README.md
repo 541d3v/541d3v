@@ -3,7 +3,6 @@
 Full-stack developer focused on **B2B web services, platforms, and systems with complex business and financial logic**.  
 I design and build products that scale, automate processes, and remain maintainable as the business grows.
 
----
 
 ## 🧠 What I Do
 
@@ -16,7 +15,6 @@ I don’t just write code. I:
 
 I work where **reliability, scalability, and predictability** matter.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +39,6 @@ I work where **reliability, scalability, and predictability** matter.
 - CI/CD  
 - Technical documentation
 
----
 
 ## 🚀 Project Types
 
@@ -52,7 +49,6 @@ I work where **reliability, scalability, and predictability** matter.
 - Startup MVPs
 - Web services with financial logic and commissions
 
----
 
 ## 🧩 How I Work
 
@@ -61,11 +57,9 @@ I work where **reliability, scalability, and predictability** matter.
 - long-term thinking: load, scaling, maintenance;
 - clear communication, no buzzwords.
 
----
 
 ## 📫 Contact
 
 If you need a developer who understands **product, architecture, and business logic**,  
 feel free to reach out via GitHub or the contacts listed in my profile.
 
----
