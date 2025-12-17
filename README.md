@@ -18,14 +18,17 @@ I work where **reliability, scalability, and predictability** matter.
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Node.js / PHP  
+**Backend** 
+- PHP / Laravel
+- Node.js  
+- Python  
 - REST APIs  
 - Business logic & system architecture  
 - Integrations (payments, ERP, third-party services)
 
 **Frontend**
-- HTML5 / CSS3 / JavaScript  
+- HTML5 / CSS3 / Bootstrap / TailwindCSS  
+- JavaScript / Vue / React  
 - SPA, dashboards, admin panels  
 - UX focused on clarity and efficiency
 
