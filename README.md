@@ -1,4 +1,4 @@
-# >Said Dev_
+# > Said Dev_
 
 Full-stack developer focused on **B2B web services, platforms, and systems with complex business and financial logic**.  
 I design and build products that scale, automate processes, and remain maintainable as the business grows.
